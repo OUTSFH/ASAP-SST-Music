@@ -1,2 +1,2 @@
 # ASAP-SST-Music
-ASAP-Preprocessed Synchrosqueezing with Multichannel Trajectory Fusion for Robust DOA Estimation in Mixed Noise. Partial code and data from the aforementioned paper.
+ASAP-Preprocessed Synchrosqueezing with Multichannel Trajectory Fusion for Robust DOA Estimation in Mixed Noise. This includes scripts and synthetic data used to reproduce the main results. Due to intellectual property restrictions, some implementation details and raw measurement data are not disclosed. Processed data and other materials may be provided upon reasonable request.See the master branch for the specific code.
